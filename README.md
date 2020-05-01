@@ -1,2 +1,2 @@
-# omnistack-backend
-App Semana Omnistack Backend
+# Omnistack Week backend
+
